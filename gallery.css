@@ -19,10 +19,7 @@ body{
 img{
   height:350px;
   width:350px;
-  padding-right: 25px;
-  padding-left: 25px;
-  margin-left:18px;
-  /*margin-left :400px;*/
+  margin-left:400px;
 
 }
 #test{
