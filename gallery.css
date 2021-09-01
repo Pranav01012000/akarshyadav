@@ -1,0 +1,33 @@
+body{
+  padding-top: 70px;
+}
+.container .jumbotron{
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+  background-color: #84ff26;
+  color:black;
+}
+
+.navbar{
+  background: #ea00ff;
+}
+.navbar a{
+  color:black;
+}
+img{
+  height:350px;
+  width:350px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-left:18px;
+  /*margin-left :400px;*/
+
+}
+#test{
+  text-align:center;
+  border:1px solid red;
+  background-color:#03fcf8;
+  margin-top: 15px;
+  border-radius: 10px;
+}
